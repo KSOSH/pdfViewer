@@ -1,0 +1,23 @@
+{
+	"name": "pdf_viewer",
+	"description": "Просмотр PDF файлов в браузере",
+	"main": "Gruntfile.js",
+	"authors": [
+		"ProjectSoft <projectsoft2009@yandex.ru>"
+	],
+	"license": "MIT",
+	"homepage": "https://github.com/KSOSH/pdfViewer",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	],
+	"dependencies": {
+		"pdf.js": "https://github.com/mozilla/pdf.js.git#^3.7.107",
+		"pdfjs-dist": "https://github.com/mozilla/pdfjs-dist.git#^3.4.120",
+		"jquery": "^3.7.0",
+		"fancybox": "https://github.com/fancyapps/fancybox.git#^3.5.7"
+	}
+}

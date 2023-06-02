@@ -1,0 +1,574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"inner",
+				"innerHeight"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"toLo",
+				"toLowerCase"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text-overflow"
+			],
+			[
+				"spac",
+				"letter-spacing"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"file",
+				"fileOrigin"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"rgb",
+				"rgb2hex"
+			],
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"ff",
+				"ffmpeg_down"
+			],
+			[
+				"pre",
+				"presets"
+			],
+			[
+				"en",
+				"engine"
+			],
+			[
+				"o",
+				"ogImage"
+			],
+			[
+				"chat",
+				"chat_id"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"nav",
+				"nav-btn"
+			],
+			[
+				"obje",
+				"object-position"
+			],
+			[
+				"stru",
+				"structure"
+			],
+			[
+				"tex",
+				"text-decoration-color"
+			],
+			[
+				"s",
+				"sticky"
+			],
+			[
+				"h",
+				"html\thtml"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 35,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					6,
+					1,
+					"left_delete",
+					null,
+					"AQAAAN4CAAAAAAAA3gIAAAAAAAABAAAALw",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAN4CAAAAAAAA3wIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					11,
+					1,
+					"",
+					null,
+					"AgAAAEICAAAAAAAATwIAAAAAAAAAAAAA3gIAAAAAAADeAgAAAAAAAA0AAAAKbm9kZV9tb2R1bGVz",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAN4CAAAAAAAA0QIAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					14,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPQAAAAAAAAA9AAAAAAAAAA9AQAAIyBEaXJlY3RvcnkgZm9yIGluc3RydW1lbnRlZCBsaWJzIGdlbmVyYXRlZCBieSBqc2NvdmVyYWdlL0pTQ292ZXIKbGliLWNvdgoKIyBDb3ZlcmFnZSBkaXJlY3RvcnkgdXNlZCBieSB0b29scyBsaWtlIGlzdGFuYnVsCmNvdmVyYWdlCioubGNvdgoKIyBueWMgdGVzdCBjb3ZlcmFnZQoubnljX291dHB1dAoKIyBHcnVudCBpbnRlcm1lZGlhdGUgc3RvcmFnZSAoaHR0cHM6Ly9ncnVudGpzLmNvbS9jcmVhdGluZy1wbHVnaW5zI3N0b3JpbmctdGFzay1maWxlcykKLmdydW50CgojIEJvd2VyIGRlcGVuZGVuY3kgZGlyZWN0b3J5IChodHRwczovL2Jvd2VyLmlvLyk",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAADECAAAAAAAA9AAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					17,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAcAAAAAAAAABwAAAAAAAADtAAAAbG9ncwoqLmxvZwpucG0tZGVidWcubG9nKgp5YXJuLWRlYnVnLmxvZyoKeWFybi1lcnJvci5sb2cqCmxlcm5hLWRlYnVnLmxvZyoKLnBucG0tZGVidWcubG9nKgoKIyBEaWFnbm9zdGljIHJlcG9ydHMgKGh0dHBzOi8vbm9kZWpzLm9yZy9hcGkvcmVwb3J0Lmh0bWwpCnJlcG9ydC5bMC05XSouWzAtOV0qLlswLTldKi5bMC05XSouanNvbgoKIyBSdW50aW1lIGRhdGEKcGlkcwoqLnBpZAoqLnNlZWQKKi5waWQubG9jawoK",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAPQAAAAAAAAABwAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					20,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAHAAAAIyBMb2dzCg",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					21,
+					1,
+					"right_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAABAAAACg",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": "test"
+					},
+					"BAAAAB4AAAAAAAAAHwAAAAAAAAAAAAAAHwAAAAAAAAAgAAAAAAAAAAAAAAAgAAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIgAAAAAAAAAAAAAA",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAB4AAAAAAAAAHgAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					27,
+					1,
+					"left_delete",
+					null,
+					"AQAAACQAAAAAAAAAJAAAAAAAAACsBQAAIG5vZGUtd2FmIGNvbmZpZ3VyYXRpb24KLmxvY2std3NjcmlwdAoKIyBDb21waWxlZCBiaW5hcnkgYWRkb25zIChodHRwczovL25vZGVqcy5vcmcvYXBpL2FkZG9ucy5odG1sKQpidWlsZC9SZWxlYXNlCgojIERlcGVuZGVuY3kgZGlyZWN0b3JpZXMKanNwbV9wYWNrYWdlcy8KCiMgU25vd3BhY2sgZGVwZW5kZW5jeSBkaXJlY3RvcnkgKGh0dHBzOi8vc25vd3BhY2suZGV2LykKd2ViX21vZHVsZXMvCgojIFR5cGVTY3JpcHQgY2FjaGUKKi50c2J1aWxkaW5mbwoKIyBPcHRpb25hbCBucG0gY2FjaGUgZGlyZWN0b3J5Ci5ucG0KCiMgT3B0aW9uYWwgZXNsaW50IGNhY2hlCi5lc2xpbnRjYWNoZQoKIyBPcHRpb25hbCBzdHlsZWxpbnQgY2FjaGUKLnN0eWxlbGludGNhY2hlCgojIE1pY3JvYnVuZGxlIGNhY2hlCi5ycHQyX2NhY2hlLwoucnRzMl9jYWNoZV9janMvCi5ydHMyX2NhY2hlX2VzLwoucnRzMl9jYWNoZV91bWQvCgojIE9wdGlvbmFsIFJFUEwgaGlzdG9yeQoubm9kZV9yZXBsX2hpc3RvcnkKCiMgT3V0cHV0IG9mICducG0gcGFjaycKKi50Z3oKCiMgWWFybiBJbnRlZ3JpdHkgZmlsZQoueWFybi1pbnRlZ3JpdHkKCiMgZG90ZW52IGVudmlyb25tZW50IHZhcmlhYmxlIGZpbGVzCi5lbnYKLmVudi5kZXZlbG9wbWVudC5sb2NhbAouZW52LnRlc3QubG9jYWwKLmVudi5wcm9kdWN0aW9uLmxvY2FsCi5lbnYubG9jYWwKCiMgcGFyY2VsLWJ1bmRsZXIgY2FjaGUgKGh0dHBzOi8vcGFyY2VsanMub3JnLykKLmNhY2hlCi5wYXJjZWwtY2FjaGUKCiMgTmV4dC5qcyBidWlsZCBvdXRwdXQKLm5leHQKb3V0CgojIE51eHQuanMgYnVpbGQgLyBnZW5lcmF0ZSBvdXRwdXQKLm51eHQKZGlzdAoKIyBHYXRzYnkgZmlsZXMKLmNhY2hlLwojIENvbW1lbnQgaW4gdGhlIHB1YmxpYyBsaW5lIGluIGlmIHlvdXIgcHJvamVjdCB1c2VzIEdhdHNieSBhbmQgbm90IE5leHQuanMKIyBodHRwczovL25leHRqcy5vcmcvYmxvZy9uZXh0LTktMSNwdWJsaWMtZGlyZWN0b3J5LXN1cHBvcnQKIyBwdWJsaWMKCiMgdnVlcHJlc3MgYnVpbGQgb3V0cHV0Ci52dWVwcmVzcy9kaXN0CgojIHZ1ZXByZXNzIHYyLnggdGVtcCBhbmQgY2FjaGUgZGlyZWN0b3J5Ci50ZW1wCi5jYWNoZQoKIyBEb2N1c2F1cnVzIGNhY2hlIGFuZCBnZW5lcmF0ZWQgZmlsZXMKLmRvY3VzYXVydXMKCiMgU2VydmVybGVzcyBkaXJlY3Rvcmllcwouc2VydmVybGVzcy8KCiMgRnVzZUJveCBjYWNoZQouZnVzZWJveC8KCiMgRHluYW1vREIgTG9jYWwgZmlsZXMKLmR5bmFtb2RiLwoKIyBUZXJuSlMgcG9ydCBmaWxlCi50ZXJuLXBvcnQKCiMgU3RvcmVzIFZTQ29kZSB2ZXJzaW9ucyB1c2VkIGZvciB0ZXN0aW5nIFZTQ29kZSBleHRlbnNpb25zCi52c2NvZGUtdGVzdAoKIyB5YXJuIHYyCi55YXJuL2NhY2hlCi55YXJuL3VucGx1Z2dlZAoueWFybi9idWlsZC1zdGF0ZS55bWwKLnlhcm4vaW5zdGFsbC1zdGF0ZS5negoucG5wLioK",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACQAAAAAAAAA0AUAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					28,
+					1,
+					"left_delete",
+					null,
+					"AQAAACMAAAAAAAAAIwAAAAAAAAABAAAAIw",
+					"DAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAACQAAAAAAAAAJAAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: List Packages"
+			],
+			[
+				"Pac",
+				"Package Control: Install Package"
+			],
+			[
+				"li",
+				"Package Control: List Packages"
+			],
+			[
+				"Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pan",
+				"Package Control: Install Package"
+			],
+			[
+				"PackageControl",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/OSPanel/domains/pdf.viewer"
+	],
+	"file_history":
+	[
+		"/C/Users/ProjectSoft/AppData/Roaming/Sublime Text/Packages/LocalizedMenu/LocalizedMenu.sublime-settings",
+		"/C/Users/ProjectSoft/AppData/Roaming/Sublime Text/Packages/User/LocalizedMenu.sublime-settings",
+		"/C/OSPanel/domains/pdf.viewer/package.json",
+		"/C/OSPanel/domains/pdf.viewer/bower.json",
+		"/C/OSPanel/domains/xlsx.viewer/src/pug/index.pug",
+		"/C/OSPanel/domains/xlsx.viewer/Gruntfile.js",
+		"/C/OSPanel/domains/xlsx.viewer/src/js/xlsx.test.js",
+		"/C/OSPanel/domains/xlsx.viewer/src/js/app.js",
+		"/C/OSPanel/domains/xlsx.viewer/src/less/main.less",
+		"/C/OSPanel/domains/xlsx.viewer/src/less/test.less",
+		"/C/OSPanel/domains/xlsx.viewer/src/js/main.js",
+		"/C/OSPanel/domains/xlsx.viewer/src/pug/pug/xlsx_test.pug",
+		"/C/OSPanel/domains/xlsx.viewer/dist/xlsx_test.html",
+		"/C/OSPanel/domains/xlsx.viewer/dist/xlsx_test.php",
+		"/C/OSPanel/domains/xlsx.viewer/dist/xlsx.test.js",
+		"/C/OSPanel/domains/xlsx.viewer/dist/viewer/xlsx_viewer/main.min.css",
+		"/C/OSPanel/domains/xlsx.viewer/dist/viewer/xlsx_viewer/index.php",
+		"/C/OSPanel/domains/xlsx.viewer/src/js/locale/ru.js",
+		"/C/OSPanel/domains/xlsx.viewer/.gitignore",
+		"/C/Projects/XLSX/dist/viewer/xlsx_viewer/index.pug",
+		"/C/Projects/XLSX/src/pug/index.pug",
+		"/C/Projects/XLSX/src/js/locale/en.js",
+		"/C/Projects/XLSX/src/less/xspreadsheet.less",
+		"/C/Projects/XLSX/Gruntfile.js",
+		"/C/Projects/XLSX/package.json",
+		"/C/Projects/XLSX/dist/viewer/xlsx_viewer/main.min.js",
+		"/C/Projects/XLSX/bower_components/fancybox/dist/jquery.fancybox.js",
+		"/C/Projects/XLSX/xlsx_viewer.sublime-project",
+		"/C/Projects/XLSX/src/less/main.less",
+		"/C/Projects/XLSX/src/js/main.js",
+		"/C/Projects/XLSX/src/js/test.js",
+		"/C/Projects/XLSX/src/less/test.less",
+		"/C/Projects/XLSX/src/pug/test.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/vov.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/school_camp.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/psychologist.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/pppk.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/news_vov.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/news_section.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/news_road_safety.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/news.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/vk_group.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/yepnope-load.pug",
+		"/C/OSPanel/domains/gbou.school/site/assets/tvs/multitv/configs/shared.config.inc.php",
+		"/C/OSPanel/domains/gbou.school/src/pug/news-one.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/methodical-teacher.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/childrens.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/default.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/distantion.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/growth_point.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/methodical-lesson.pug",
+		"/C/OSPanel/domains/gbou.school/src/less/inc/vk_groups.less",
+		"/C/OSPanel/domains/gbou.school/src/less/main.less",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/director.pug",
+		"/C/OSPanel/domains/gbou.school/src/js/main.js",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/sites-link.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/vk_group_news.pug",
+		"/C/OSPanel/domains/gbou.school/.gitignore",
+		"/C/OSPanel/domains/gbou.school/site/configs/clientsettings/tab005.php",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/slider_pppk.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/news_road_pppk.pug",
+		"/C/OSPanel/domains/gbou.school/site/assets/tvs/multitv/configs/carausel_pppk.config.inc.php",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/viewer.pug",
+		"/C/OSPanel/domains/gbou.school/bower_components/jquery/dist/jquery.min.js",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/plg.js",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/main.js",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/xspreadsheet.js",
+		"/C/OSPanel/domains/gbou.school/Gruntfile.js",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/index.php",
+		"/C/OSPanel/domains/gbou.school/site/icons-full/dirlist_header.shtml",
+		"/C/OSPanel/domains/gbou.school/site/icons-full/dirlist_footer.shtml",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/main.less",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/xspreadsheet.css",
+		"/C/OSPanel/domains/gbou.school/site/icons-full/style.less",
+		"/C/OSPanel/domains/gbou.school/site/icons-full/style.css",
+		"/C/OSPanel/domains/gbou.school/compressjs.sh",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/main.min.css",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/viewer.html",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/options.json",
+		"/C/OSPanel/domains/gbou.school/site/viewer/xlsx/appjs.js",
+		"/C/OSPanel/domains/gbou.school/gbou.sublime-project",
+		"/C/OSPanel/domains/gbou.school/site/configs/clientsettings/tab001.php",
+		"/C/OSPanel/domains/gbou.school/site/assets/comon/snippets/YandexMetrika/yandex.metrika.html",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/gismeteo.html",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/footer.pug",
+		"/C/OSPanel/domains/gbou.school/src/less/inc/columns.less",
+		"/C/OSPanel/domains/gbou.school/site/assets/templates/projectsoft/tpl/sites-link.html",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/global-menu.pug",
+		"/C/OSPanel/domains/gbou.school/site/assets/templates/projectsoft/js/appjs.min.js",
+		"/C/OSPanel/domains/gbou.school/src/js/jquery.btn.js",
+		"/C/OSPanel/domains/gbou.school/site/assets/comon/snippets/YandexMetrika/snippet.YandexMetrika.php",
+		"/C/OSPanel/domains/gbou.school/src/less/plugins/btn.less",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/cookie.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/home_news.pug",
+		"/C/OSPanel/domains/gbou.school/src/pug/tpl/news_tpl.pug",
+		"/C/OSPanel/domains/gbou.school/site/viewer/web/viewer-edit.js",
+		"/C/OSPanel/domains/gbou.school/site/manager/includes/config.inc.php",
+		"/C/OSPanel/domains/gbou.school/site/viewer/build/pdf.js",
+		"/C/Users/ProjectSoft/Desktop/color/color/main.less",
+		"/C/Users/ProjectSoft/Desktop/2023-01-24-sm.xlsx",
+		"/C/Users/ProjectSoft/Desktop/color/favicon.pug",
+		"/C/Users/ProjectSoft/Desktop/color/index.html",
+		"/C/Users/ProjectSoft/Desktop/color/index.pug",
+		"/C/Users/ProjectSoft/Desktop/color/main.less",
+		"/C/Users/ProjectSoft/Desktop/color/color.sublime-project",
+		"/C/Users/ProjectSoft/Desktop/color/color.sublime-workspace",
+		"/C/Users/ProjectSoft/Desktop/color/main.js",
+		"/C/Users/ProjectSoft/Desktop/color/package.json",
+		"/C/Users/ProjectSoft/AppData/Roaming/Sublime Text 3/Packages/User/Minify.sublime-settings",
+		"/C/Users/ProjectSoft/Desktop/color/main.css",
+		"/C/Users/ProjectSoft/AppData/Roaming/Sublime Text 3/Packages/Minify/Minify.sublime-settings",
+		"/C/Users/ProjectSoft/Desktop/radioapp/package.json",
+		"/C/Users/ProjectSoft/Desktop/radioapp/bower.json",
+		"/C/OSPanel/domains/random.nm/random.sublime-project",
+		"/C/OSPanel/domains/random.nm/index.php",
+		"/C/OSPanel/domains/random.nm/index.pug",
+		"/C/OSPanel/domains/random.nm/main.js",
+		"/C/OSPanel/domains/random.nm/main.less",
+		"/C/OSPanel/domains/random.nm/index.html",
+		"/C/OSPanel/domains/random.nm/0000.sublime-build",
+		"/C/Users/ProjectSoft/AppData/Roaming/Sublime Text 3/Packages/User/LocalizedMenu.sublime-settings",
+		"/C/Projects/YourRadioLite/Gruntfile.js",
+		"/C/Projects/YourRadioLite/WebKit-Radio.sublime-project",
+		"/C/Projects/YourRadioLite/src/js/require.js",
+		"/C/Projects/YourRadioLite/src/js/main.js",
+		"/C/Projects/YourRadioLite/src/less/inc/main.less",
+		"/C/Projects/YourRadioLite/node_modules/grunt-nwjs-ffmpeg-download/tasks/ffmpeg_down.js",
+		"/C/OSPanel/domains/rezerv.school/Gruntfile.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "pdf_viewer.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 397.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
