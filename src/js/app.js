@@ -65,7 +65,7 @@
 					return !1;
 					break;
 				case "pdf":
-					go = window.location.origin + '/viewer/web/?file=' + test;
+					go = window.location.origin + '/viewer/pdf_viewer/?file=' + test;
 					options = {
 						src: go
 					};

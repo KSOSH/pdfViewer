@@ -47,6 +47,7 @@ module.exports = function(grunt) {
 			},
 			viewer: {
 				src: [
+					'src/js/textversion.js',
 					'src/js/pdfviewer.js'
 				],
 				dest: 'dist/viewer/pdf_viewer/pdf.js/web/pdfviewer.js'
@@ -82,7 +83,7 @@ module.exports = function(grunt) {
 						dest: 'dist',
 						filter: 'isFile',
 						rename: function (dst, src) {
-							return dst + '/' + 'pdftest.js';
+							return dst + '/' + 'appjs.min.js';
 						}
 					}
 				]
@@ -180,9 +181,12 @@ module.exports = function(grunt) {
 			},
 			app: {
 				files: {
-					'<%= globalConfig.assets %>/main.min.css' : ['test/css/replace/main.css'],
-					'dist/pdftest.css' : ['test/css/replace/test.css'],
-					'dist/viewer/pdf_viewer/pdf.js/web/pdfviewer.css': ['src/less/pdfviewer.css']
+					//'<%= globalConfig.assets %>/main.min.css' : ['test/css/replace/main.css'],
+					'dist/app.css' : ['test/css/replace/test.css'],
+					'dist/viewer/pdf_viewer/pdf.js/web/pdfviewer.css': [
+						'src/less/pdfviewer.css',
+						'test/css/replace/main.css'
+					]
 				}
 			}
 		},
@@ -237,6 +241,12 @@ module.exports = function(grunt) {
 				cwd: 'src/pdf.js',
 				src: '**',
 				dest: 'dist/viewer/pdf_viewer/pdf.js/',
+			},
+			images: {
+				expand: true,
+				cwd: 'src/images',
+				src: '**',
+				dest: 'dist/viewer/pdf_viewer/pdf.js/web/images/',
 			},
 		},
 	});

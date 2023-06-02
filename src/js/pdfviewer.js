@@ -678,7 +678,7 @@ const defaultOptions = {
 		kind: OptionKind.API
 	},
 	cMapUrl: {
-		value: "../web/cmaps/",
+		value: "pdf.js/web/cmaps/",
 		kind: OptionKind.API
 	},
 	disableAutoFetch: {
@@ -726,7 +726,7 @@ const defaultOptions = {
 		kind: OptionKind.API
 	},
 	standardFontDataUrl: {
-		value: "../web/standard_fonts/",
+		value: "pdf.js/web/standard_fonts/",
 		kind: OptionKind.API
 	},
 	verbosity: {
@@ -738,13 +738,13 @@ const defaultOptions = {
 		kind: OptionKind.WORKER
 	},
 	workerSrc: {
-		value: "../build/pdf.worker.js",
+		value: "pdf.js/build/pdf.worker.js",
 		kind: OptionKind.WORKER
 	}
 };
 {
 	defaultOptions.defaultUrl = {
-		value: "compressed.tracemonkey-pldi-09.pdf",
+		value: "pdf.js/web/compressed.tracemonkey-pldi-09.pdf",
 		kind: OptionKind.VIEWER
 	};
 	defaultOptions.disablePreferences = {
@@ -1797,18 +1797,29 @@ const PDFViewerApplication = {
 	},
 	setTitle(title = this._title) {
 		this._title = title;
-		const editorIndicator = this._hasAnnotationEditors && !this.pdfRenderingQueue.printing;
-		if (this.isViewerEmbedded) {
-			if(!document.body.classList.contains('viewerEmbeded')){
-				document.body.classList.add('viewerEmbeded')
-			}
-			const divTitle = document.getElementById("docTitle");
-			if(divTitle){
-				divTitle.innerHTML = `${title}`;
-			}
-			return;
+		console.log(this);
+		let ext = this._docFilename.split('.').at(-1).toLowerCase(),
+			dwn = document.querySelector("#downloadTag")
+		const editorIndicator = this._hasAnnotationEditors && !this.pdfRenderingQueue.printing,
+			ttl = createTextVersion(`${title}`).trim();
+		if(dwn && this.pdfDocument){
+			let ex = ttl.split('.').at(-1).toLowerCase();
+			let dwnName = ext != ex ? `${ttl}.${ext}` : ttl;
+			dwn.setAttribute('href', this._downloadUrl);
+			dwn.setAttribute('download', dwnName);
+			dwn.setAttribute('target', '_blank');
 		}
-		document.title = `${editorIndicator ? "* " : ""}${title}`;
+		if(!document.body.classList.contains('viewerEmbeded')){
+			document.body.classList.add('viewerEmbeded');
+		}
+		if(!this.isViewerEmbedded){
+			document.querySelector('title').innerHTML = `${ttl}`;
+		}
+		const divTitle = document.getElementById("docTitle");
+		if(divTitle){
+			divTitle.innerHTML = `${ttl}`;
+		}
+		return;
 	},
 	get _docFilename() {
 		return this._contentDispositionFilename || (0, _pdfjsLib.getPdfFilenameFromUrl)(this.url);
@@ -2003,6 +2014,11 @@ const PDFViewerApplication = {
 		}
 	},
 	_documentError(message, moreInfo = null) {
+		let down;
+		if(down = document.querySelector("#downloadTag")){
+			down.removeAttribute('href');
+			down.removeAttribute('download');
+		}
 		this._unblockDocumentLoadEvent();
 		this._otherError(message, moreInfo);
 		this.eventBus.dispatch("documenterror", {
