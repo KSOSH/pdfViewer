@@ -33,6 +33,11 @@
 					options = {
 						src: go,
 						type: 'iframe',
+						toolbar: true,
+						smallBtn: false,
+						buttons: [
+							"close"
+						],
 						opts : {
 							afterShow : function( instance, current ) {
 								$(".fancybox-content").addClass('xlsx_viewer');
@@ -51,6 +56,11 @@
 					options = {
 						src: go,
 						type: 'iframe',
+						toolbar: true,
+						smallBtn: false,
+						buttons: [
+							"close"
+						],
 						opts : {
 							afterShow : function( instance, current ) {
 								$(".fancybox-content").addClass('docx_viewer');
@@ -67,7 +77,20 @@
 				case "pdf":
 					go = window.location.origin + '/viewer/pdf_viewer/?file=' + test;
 					options = {
-						src: go
+						src: go,
+						toolbar: true,
+						smallBtn: false,
+						buttons: [
+							"close"
+						],
+						opts : {
+							afterShow : function( instance, current ) {
+								$(".fancybox-content").addClass('pdf_viewer');
+							},
+							afterLoad : function( instance, current ) {
+								$(".fancybox-content").addClass('pdf_viewer');
+							},
+						}
 					};
 					e.preventDefault();
 					$.fancybox.open(options);
