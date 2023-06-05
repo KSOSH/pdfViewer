@@ -5,12 +5,13 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<meta name="google" content="notranslate">
 		<title>PDF.js viewer</title>
-		<link rel="stylesheet" href="pdf.js/web/pdfviewer.css?63296f02c5b062dffa7b69afb10cd936">
-		<!-- This snippet is used in production (included from viewer.html)-->
+		<link rel="stylesheet" href="pdf.js/web/pdfviewer.css?0ec35495a8d5c441bf046d97a855bfb5">
 		<link rel="resource" type="application/l10n" href="pdf.js/web/locale/locale.properties">
 	</head>
 	<body class="viewerEmbeded" tabindex="1">
+		<!-- outerContainer-->
 		<div id="outerContainer">
+			<!-- sidebarContainer-->
 			<div id="sidebarContainer">
 				<div id="toolbarSidebar">
 					<div id="toolbarSidebarLeft">
@@ -36,8 +37,10 @@
 				</div>
 				<div id="sidebarResizer"></div>
 			</div>
-			<!-- sidebarContainer-->
+			<!-- End sidebarContainer-->
+			<!-- mainContainer-->
 			<div id="mainContainer">
+				<!-- findbar-->
 				<div class="findbar hidden doorHanger" id="findbar">
 					<div id="findbarInputContainer">
 						<input class="toolbarField" id="findInput" title="Find" placeholder="Find in document…" tabindex="91" data-l10n-id="find_input" aria-invalid="false">
@@ -61,7 +64,7 @@
 					</div>
 					<div id="findbarMessageContainer" aria-live="polite"><span class="toolbarLabel" id="findResultsCount"></span><span class="toolbarLabel" id="findMsg"></span></div>
 				</div>
-				<!-- findbar-->
+				<!-- End findbar-->
 				<div class="editorParamsToolbar hidden doorHangerRight" id="editorFreeTextParamsToolbar">
 					<div class="editorParamsToolbarContainer">
 						<div class="editorParamsSetter">
@@ -90,6 +93,7 @@
 						</div>
 					</div>
 				</div>
+				<!-- secondaryToolbar-->
 				<div class="secondaryToolbar hidden doorHangerRight" id="secondaryToolbar">
 					<div id="secondaryToolbarButtonContainer">
 						<button class="secondaryToolbarButton visibleLargeView" id="secondaryOpenFile" title="Open File" tabindex="51" data-l10n-id="open_file"><span data-l10n-id="open_file_label">Open</span></button>
@@ -125,12 +129,14 @@
 						<button class="secondaryToolbarButton" id="documentProperties" title="Document Properties…" tabindex="69" data-l10n-id="document_properties" aria-controls="documentPropertiesDialog"><span data-l10n-id="document_properties_label">Document Properties&mldr;</span></button>
 					</div>
 				</div>
-				<!-- secondaryToolbar-->
+				<!-- End secondaryToolbar-->
 				<div class="toolbar">
+					<!-- toolbarTitle-->
 					<div class="toolbarTitle">
-						<div id="docTitle"></div>
-						<!-- secondaryToolbarButton--><a id="downloadTag" data-l10n-id="save_label" aria-expanded="false">Save</a>
+						<div id="docTitle"></div><a id="downloadTag" data-l10n-id="save_label" aria-expanded="false">Save</a>
 					</div>
+					<!-- End toolbarTitle-->
+					<!-- toolbarContainer-->
 					<div id="toolbarContainer">
 						<div id="toolbarViewer">
 							<div id="toolbarViewerLeft">
@@ -179,19 +185,24 @@
 									</select></span>
 							</div>
 						</div>
+						<!-- loadingBar-->
 						<div id="loadingBar">
 							<div class="progress">
 								<div class="glimmer"></div>
 							</div>
 						</div>
+						<!-- End loadingBar-->
 					</div>
+					<!-- End toolbarContainer-->
 				</div>
 				<div id="viewerContainer" tabindex="0">
 					<div class="pdfViewer" id="viewer"></div>
 				</div>
 			</div>
-			<!-- mainContainer-->
+			<!-- End mainContainer-->
+			<!-- dialogContainer-->
 			<div id="dialogContainer">
+				<!-- passwordDialog-->
 				<dialog id="passwordDialog">
 					<div class="row">
 						<label id="passwordText" for="password" data-l10n-id="password_label">Enter the password to open this PDF file:</label>
@@ -204,6 +215,8 @@
 						<button class="dialogButton" id="passwordSubmit"><span data-l10n-id="password_ok">OK</span></button>
 					</div>
 				</dialog>
+				<!-- End passwordDialog-->
+				<!-- documentPropertiesDialog-->
 				<dialog id="documentPropertiesDialog">
 					<div class="row"><span id="fileNameLabel" data-l10n-id="document_properties_file_name">File name:</span>
 						<p id="fileNameField" aria-labelledby="fileNameLabel">-</p>
@@ -254,6 +267,8 @@
 						<button class="dialogButton" id="documentPropertiesClose"><span data-l10n-id="document_properties_close">Close</span></button>
 					</div>
 				</dialog>
+				<!-- End documentPropertiesDialog-->
+				<!-- printServiceDialog-->
 				<dialog id="printServiceDialog" style="min-width: 200px;">
 					<div class="row"><span data-l10n-id="print_progress_message">Preparing document for printing&mldr;</span></div>
 					<div class="row">
@@ -263,13 +278,16 @@
 						<button class="dialogButton" id="printCancel"><span data-l10n-id="print_progress_close">Cancel</span></button>
 					</div>
 				</dialog>
+				<!-- End printServiceDialog-->
 			</div>
-			<!-- dialogContainer-->
+			<!-- End dialogContainer-->
 		</div>
-		<!-- outerContainer-->
+		<!-- End outerContainer-->
+		<!-- printContainer-->
 		<div id="printContainer"></div>
+		<!-- End printContainer-->
 		<input class="hidden" id="fileInput" type="file">
 		<script src="pdf.js/build/pdf.js"></script>
-		<script src="pdf.js/web/pdfviewer.js?63296f02c5b062dffa7b69afb10cd936"></script>
+		<script src="pdf.js/web/pdfviewer.js?0ec35495a8d5c441bf046d97a855bfb5"></script>
 	</body>
 </html>

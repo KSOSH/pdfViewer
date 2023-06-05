@@ -4,7 +4,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 		<meta name="google" content="notranslate">
 		<title>Test PDF viewer</title>
-		<link rel="stylesheet" href="app.css?6a979a2c0fad5bd42f897e2ec6d24c4d">
+		<link rel="stylesheet" href="app.css?b640c316466b002a58f9e7544ce69396">
 	</head>
 	<body>
 		<ul>
@@ -43,6 +43,6 @@
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
 		<p>&nbsp;</p>
-		<script src="appjs.min.js?6a979a2c0fad5bd42f897e2ec6d24c4d"></script>
+		<script src="appjs.min.js?b640c316466b002a58f9e7544ce69396"></script>
 	</body>
 </html>
